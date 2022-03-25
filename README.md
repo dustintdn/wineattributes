@@ -1,5 +1,5 @@
 # Wine Classifier and Wine Quality Characteristers
-The repo was created as a sandbox repo to exercise python techniques. The following practice assignments can be found in the notesbooks folder:
+The repo was created as a sandbox folder to exercise python techniques. The following practice assignments can be found in the notesbooks folder:
 
 1. wine classification - is it a red wine or white wine?
 
